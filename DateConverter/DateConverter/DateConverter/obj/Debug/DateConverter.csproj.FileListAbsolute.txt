@@ -1,0 +1,13 @@
+C:\Users\ViolentlyHappy\Documents\SoftUni\00_CSharpBasicsAllExams\08_Variant8\DateConverter\DateConverter\bin\Debug\DateConverter.exe.config
+C:\Users\ViolentlyHappy\Documents\SoftUni\00_CSharpBasicsAllExams\08_Variant8\DateConverter\DateConverter\bin\Debug\DateConverter.exe
+C:\Users\ViolentlyHappy\Documents\SoftUni\00_CSharpBasicsAllExams\08_Variant8\DateConverter\DateConverter\bin\Debug\DateConverter.pdb
+C:\Users\ViolentlyHappy\Documents\SoftUni\00_CSharpBasicsAllExams\08_Variant8\DateConverter\DateConverter\obj\Debug\DateConverter.csprojResolveAssemblyReference.cache
+C:\Users\ViolentlyHappy\Documents\SoftUni\00_CSharpBasicsAllExams\08_Variant8\DateConverter\DateConverter\obj\Debug\DateConverter.Form1.resources
+C:\Users\ViolentlyHappy\Documents\SoftUni\00_CSharpBasicsAllExams\08_Variant8\DateConverter\DateConverter\obj\Debug\DateConverter.Properties.Resources.resources
+C:\Users\ViolentlyHappy\Documents\SoftUni\00_CSharpBasicsAllExams\08_Variant8\DateConverter\DateConverter\obj\Debug\DateConverter.csproj.GenerateResource.Cache
+C:\Users\ViolentlyHappy\Documents\SoftUni\00_CSharpBasicsAllExams\08_Variant8\DateConverter\DateConverter\obj\Debug\DateConverter.exe
+C:\Users\ViolentlyHappy\Documents\SoftUni\00_CSharpBasicsAllExams\08_Variant8\DateConverter\DateConverter\obj\Debug\DateConverter.pdb
+C:\Users\ViolentlyHappy\Documents\SoftUni\00_CSharpBasicsAllExams\08_Variant8\DateConverter\DateConverter\bin\Debug\DateConverter.exe.manifest
+C:\Users\ViolentlyHappy\Documents\SoftUni\00_CSharpBasicsAllExams\08_Variant8\DateConverter\DateConverter\bin\Debug\DateConverter.application
+C:\Users\ViolentlyHappy\Documents\SoftUni\00_CSharpBasicsAllExams\08_Variant8\DateConverter\DateConverter\obj\Debug\DateConverter.exe.manifest
+C:\Users\ViolentlyHappy\Documents\SoftUni\00_CSharpBasicsAllExams\08_Variant8\DateConverter\DateConverter\obj\Debug\DateConverter.application
